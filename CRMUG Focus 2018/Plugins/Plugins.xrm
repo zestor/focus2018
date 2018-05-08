@@ -1,0 +1,828 @@
+{
+  "_organizations": [
+    {
+      "DiscoveryURL": "https://fusion2018dev.crm.powerobjects.net",
+      "OrganizationURL": "https://fusion2018dev.crm.powerobjects.net",
+      "HomeRealmUri": "",
+      "OrganizationVersion": "8.2.0.749",
+      "_projects": [
+        {
+          "Name": "Plugins.csproj",
+          "NameWithoutExtension": "Plugins",
+          "ProjectPreferences": {
+            "JavaScriptsPath": "\\Web",
+            "TypeScriptsPath": "\\Web",
+            "ImagesPath": "\\Web",
+            "WebFilesPath": "\\Web",
+            "CSSPath": "\\Web",
+            "XslPath": "\\Web",
+            "XmlPath": "\\Web",
+            "SilverlightPath": "\\Xap",
+            "JavaScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+            "TypeScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+            "SitemapPath": "\\Sitemap",
+            "ChartsPath": "\\Charts",
+            "ViewPath": "\\Views",
+            "ProxyClassesPath": "\\ProxyClasses",
+            "EmailTemplatesPath": "\\EmailTemplates",
+            "ProcessesPath": "\\Processes",
+            "EntityMetadataPath": "\\EntityMetadata",
+            "PluginConfigurationsPath": "\\PluginConfigurations",
+            "BaseProxyClassRelativePath": "\\",
+            "CustomAssemblyConfigPath": "\\AssemblyConfig",
+            "JavaScriptMinification": 1,
+            "CSSMinification": 1,
+            "AutoRefreshIntellisenseFilesOnMetadataChanges": true,
+            "ServiceContextName": "CrmServiceContext",
+            "EnumsFileName": "OptionSetEnums",
+            "BaseProxyClassFileName": "BaseProxyClass",
+            "AutoRefreshProxyClassesOnMetadataChanges": true,
+            "PluginPath": "",
+            "WorkflowPath": "",
+            "ProxyClassGenerationOptions": 1,
+            "ProxyClassGenerationMethod": 1,
+            "ProxyClassNamingConvention": 1,
+            "ProxyClassNamingPattern": "{0}",
+            "UseStronglyTypeNameForProxyClassRelatedEntities": true
+          },
+          "_files": [
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.ProxyFile, SS.XrmToolkit.Common",
+              "EntityLogicalName": "ccc_event",
+              "MetadataId": "c7bc41f3-0a4e-e811-80fd-00155dcfc041",
+              "AutoRefreshOnChanges": true,
+              "ProxyClassGenerationOptions": 2,
+              "ProxyClassGenerationMethod": 1,
+              "ProxyClassNamingConvention": 1,
+              "ProxyClassNamingPattern": "{0}",
+              "UseStronglyTypeNameForProxyClassRelatedEntities": true,
+              "ProgrammingLanguage": 1,
+              "RelativeFilePath": "ProxyClasses\\@Event.cs",
+              "Name": "@Event.cs",
+              "CrmId": "c7bc41f3-0a4e-e811-80fd-00155dcfc041"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.ProxyBaseClass, SS.XrmToolkit.Common",
+              "Version": "4.0.0.0",
+              "ProgrammingLanguage": 1,
+              "RelativeFilePath": "ProxyClasses\\BaseProxyClass.cs",
+              "Name": "BaseProxyClass.cs",
+              "CrmId": "00000000-0000-0000-0000-000000000000"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.ProxyFile, SS.XrmToolkit.Common",
+              "EntityLogicalName": "ccc_eventasset",
+              "MetadataId": "673771e0-0b4e-e811-80fd-00155dcfc041",
+              "AutoRefreshOnChanges": true,
+              "ProxyClassGenerationOptions": 2,
+              "ProxyClassGenerationMethod": 1,
+              "ProxyClassNamingConvention": 1,
+              "ProxyClassNamingPattern": "{0}",
+              "UseStronglyTypeNameForProxyClassRelatedEntities": true,
+              "ProgrammingLanguage": 1,
+              "RelativeFilePath": "ProxyClasses\\EventAsset.cs",
+              "Name": "EventAsset.cs",
+              "CrmId": "673771e0-0b4e-e811-80fd-00155dcfc041"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.ProxyFile, SS.XrmToolkit.Common",
+              "EntityLogicalName": "ccc_eventlog",
+              "MetadataId": "75477f58-4152-e811-80fd-00155dcfc041",
+              "AutoRefreshOnChanges": true,
+              "ProxyClassGenerationOptions": 2,
+              "ProxyClassGenerationMethod": 1,
+              "ProxyClassNamingConvention": 1,
+              "ProxyClassNamingPattern": "{0}",
+              "UseStronglyTypeNameForProxyClassRelatedEntities": true,
+              "ProgrammingLanguage": 1,
+              "RelativeFilePath": "ProxyClasses\\EventLog.cs",
+              "Name": "EventLog.cs",
+              "CrmId": "75477f58-4152-e811-80fd-00155dcfc041"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.ProxyFile, SS.XrmToolkit.Common",
+              "EntityLogicalName": "ccc_eventtype",
+              "MetadataId": "9659f1f1-0e4e-e811-80fd-00155dcfc041",
+              "AutoRefreshOnChanges": true,
+              "ProxyClassGenerationOptions": 2,
+              "ProxyClassGenerationMethod": 1,
+              "ProxyClassNamingConvention": 1,
+              "ProxyClassNamingPattern": "{0}",
+              "UseStronglyTypeNameForProxyClassRelatedEntities": true,
+              "ProgrammingLanguage": 1,
+              "RelativeFilePath": "ProxyClasses\\EventType.cs",
+              "Name": "EventType.cs",
+              "CrmId": "9659f1f1-0e4e-e811-80fd-00155dcfc041"
+            }
+          ],
+          "ProjectSettings": {
+            "$type": "SS.XrmToolkit.Common.ApplicationObjects.PluginSettings, SS.XrmToolkit.Common",
+            "CopyAttributes": true,
+            "Log": false,
+            "Closed": true,
+            "UseILMerge": false,
+            "ProduceDebugInfo": true,
+            "OverrideCRMReferenceDirectory": false,
+            "CrmReferenceDirectory": "C:\\ProgramData\\Simpler Software\\XrmToolkit\\CRM References\\7.0\\",
+            "ILMergeOuputDirectory": "\\ILMerge",
+            "ILMergeOutputAssemblyName": "Plugins.dll",
+            "OverrideTargetFrameworkLocation": false,
+            "TargetFrameworkLocation": "C:\\Program Files (x86)\\Reference Assemblies\\Microsoft\\Framework\\.NETFramework\\v4.5",
+            "AllowDuplicateTypes": false,
+            "AllowDuplicateResources": false,
+            "ILMergeOutputAssemblyFileName": "\\ILMerge\\Plugins.dll",
+            "DuplicateTypes": [],
+            "AssemblyReferences": [],
+            "ReferenceDirectories": [],
+            "PluginAssembly": {
+              "_pluginTypes": [
+                {
+                  "_steps": [
+                    {
+                      "_images": [],
+                      "LogicalName": "sdkmessageprocessingstep",
+                      "SdkMessageFilterPrimaryObjectTypeCode": "ccc_event",
+                      "SdkMessageFilterSecondaryObjectTypeCode": "none",
+                      "Id": "2dacbebd-4352-e811-80fd-00155dcfc041",
+                      "Attributes": [
+                        {
+                          "Key": "name",
+                          "Value": "Create - Event - Post-operation"
+                        },
+                        {
+                          "Key": "plugintypeid",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"2cacbebd-4352-e811-80fd-00155dcfc041"},"LogicalName":"plugintype","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "mode",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                        },
+                        {
+                          "Key": "stage",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":40}}
+                        },
+                        {
+                          "Key": "rank",
+                          "Value": {"$type":"System.Int32","$value":1}
+                        },
+                        {
+                          "Key": "sdkmessageid",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"9ebdbb1b-ea3e-db11-86a7-000a3a5473e8"},"LogicalName":"sdkmessage","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "asyncautodelete",
+                          "Value": {"$type":"System.Boolean","$value":false}
+                        },
+                        {
+                          "Key": "customizationlevel",
+                          "Value": {"$type":"System.Int32","$value":1}
+                        },
+                        {
+                          "Key": "sdkmessagefilterid",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"d7db43fa-0a4e-e811-80fd-00155dcfc041"},"LogicalName":"sdkmessagefilter","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "impersonatinguserid",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"d0375890-a348-e811-8115-00155dce4467"},"LogicalName":"systemuser","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "supporteddeployment",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                        },
+                        {
+                          "Key": "statuscode",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":1}}
+                        },
+                        {
+                          "Key": "invocationsource",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":1}}
+                        },
+                        {
+                          "Key": "createdon",
+                          "Value": "2018-05-07T22:12:35Z"
+                        },
+                        {
+                          "Key": "statecode",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                        },
+                        {
+                          "Key": "sdkmessageprocessingstepid",
+                          "Value": {"$type":"System.Guid","$value":"2dacbebd-4352-e811-80fd-00155dcfc041"}
+                        },
+                        {
+                          "Key": "solutionid",
+                          "Value": {"$type":"System.Guid","$value":"fd140aae-4df4-11dd-bd17-0019b9312238"}
+                        },
+                        {
+                          "Key": "ismanaged",
+                          "Value": {"$type":"System.Boolean","$value":false}
+                        },
+                        {
+                          "Key": "ishidden",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.BooleanManagedProperty, Microsoft.Xrm.Sdk","Value":{"$type":"System.Boolean","$value":false},"CanBeChanged":{"$type":"System.Boolean","$value":true},"ManagedPropertyLogicalName":"ishidden"}
+                        },
+                        {
+                          "Key": "introducedversion",
+                          "Value": "1.0"
+                        },
+                        {
+                          "Key": "sdkmessageprocessingstepidunique",
+                          "Value": {"$type":"System.Guid","$value":"ada3c624-9327-40b9-8863-4bd46fe6bca5"}
+                        },
+                        {
+                          "Key": "modifiedby",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"d8375890-a348-e811-8115-00155dce4467"},"LogicalName":"systemuser","Name":"Christopher Clark","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "iscustomizable",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.BooleanManagedProperty, Microsoft.Xrm.Sdk","Value":{"$type":"System.Boolean","$value":true},"CanBeChanged":{"$type":"System.Boolean","$value":true},"ManagedPropertyLogicalName":"iscustomizableanddeletable"}
+                        },
+                        {
+                          "Key": "modifiedon",
+                          "Value": "2018-05-07T22:12:35Z"
+                        },
+                        {
+                          "Key": "componentstate",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                        },
+                        {
+                          "Key": "eventhandler",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"2cacbebd-4352-e811-80fd-00155dcfc041"},"LogicalName":"plugintype","Name":"Plugins.EventCreateUpdate","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "createdby",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"d8375890-a348-e811-8115-00155dce4467"},"LogicalName":"systemuser","Name":"Christopher Clark","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "organizationid",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"f4bf8e6c-a248-e811-8115-00155dce4467"},"LogicalName":"organization","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "canusereadonlyconnection",
+                          "Value": {"$type":"System.Boolean","$value":false}
+                        }
+                      ],
+                      "FormattedValues": [],
+                      "RelatedEntities": [],
+                      "KeyAttributes": []
+                    },
+                    {
+                      "_images": [],
+                      "LogicalName": "sdkmessageprocessingstep",
+                      "SdkMessageFilterPrimaryObjectTypeCode": "ccc_event",
+                      "SdkMessageFilterSecondaryObjectTypeCode": "none",
+                      "Id": "2facbebd-4352-e811-80fd-00155dcfc041",
+                      "Attributes": [
+                        {
+                          "Key": "name",
+                          "Value": "Update - Event - Post-operation"
+                        },
+                        {
+                          "Key": "plugintypeid",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"2cacbebd-4352-e811-80fd-00155dcfc041"},"LogicalName":"plugintype","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "mode",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                        },
+                        {
+                          "Key": "stage",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":40}}
+                        },
+                        {
+                          "Key": "rank",
+                          "Value": {"$type":"System.Int32","$value":1}
+                        },
+                        {
+                          "Key": "sdkmessageid",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"20bebb1b-ea3e-db11-86a7-000a3a5473e8"},"LogicalName":"sdkmessage","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "asyncautodelete",
+                          "Value": {"$type":"System.Boolean","$value":false}
+                        },
+                        {
+                          "Key": "customizationlevel",
+                          "Value": {"$type":"System.Int32","$value":1}
+                        },
+                        {
+                          "Key": "sdkmessagefilterid",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"e1db43fa-0a4e-e811-80fd-00155dcfc041"},"LogicalName":"sdkmessagefilter","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "impersonatinguserid",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"d0375890-a348-e811-8115-00155dce4467"},"LogicalName":"systemuser","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "supporteddeployment",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                        },
+                        {
+                          "Key": "statuscode",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":1}}
+                        },
+                        {
+                          "Key": "invocationsource",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":1}}
+                        },
+                        {
+                          "Key": "createdon",
+                          "Value": "2018-05-07T22:12:35Z"
+                        },
+                        {
+                          "Key": "statecode",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                        },
+                        {
+                          "Key": "sdkmessageprocessingstepid",
+                          "Value": {"$type":"System.Guid","$value":"2facbebd-4352-e811-80fd-00155dcfc041"}
+                        },
+                        {
+                          "Key": "solutionid",
+                          "Value": {"$type":"System.Guid","$value":"fd140aae-4df4-11dd-bd17-0019b9312238"}
+                        },
+                        {
+                          "Key": "ismanaged",
+                          "Value": {"$type":"System.Boolean","$value":false}
+                        },
+                        {
+                          "Key": "ishidden",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.BooleanManagedProperty, Microsoft.Xrm.Sdk","Value":{"$type":"System.Boolean","$value":false},"CanBeChanged":{"$type":"System.Boolean","$value":true},"ManagedPropertyLogicalName":"ishidden"}
+                        },
+                        {
+                          "Key": "introducedversion",
+                          "Value": "1.0"
+                        },
+                        {
+                          "Key": "sdkmessageprocessingstepidunique",
+                          "Value": {"$type":"System.Guid","$value":"03818b3b-a095-4549-8ff5-a31e8b9e498b"}
+                        },
+                        {
+                          "Key": "modifiedby",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"d8375890-a348-e811-8115-00155dce4467"},"LogicalName":"systemuser","Name":"Christopher Clark","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "iscustomizable",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.BooleanManagedProperty, Microsoft.Xrm.Sdk","Value":{"$type":"System.Boolean","$value":true},"CanBeChanged":{"$type":"System.Boolean","$value":true},"ManagedPropertyLogicalName":"iscustomizableanddeletable"}
+                        },
+                        {
+                          "Key": "modifiedon",
+                          "Value": "2018-05-07T22:12:35Z"
+                        },
+                        {
+                          "Key": "componentstate",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                        },
+                        {
+                          "Key": "eventhandler",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"2cacbebd-4352-e811-80fd-00155dcfc041"},"LogicalName":"plugintype","Name":"Plugins.EventCreateUpdate","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "createdby",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"d8375890-a348-e811-8115-00155dce4467"},"LogicalName":"systemuser","Name":"Christopher Clark","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "organizationid",
+                          "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"f4bf8e6c-a248-e811-8115-00155dce4467"},"LogicalName":"organization","KeyAttributes":[]}
+                        },
+                        {
+                          "Key": "canusereadonlyconnection",
+                          "Value": {"$type":"System.Boolean","$value":false}
+                        }
+                      ],
+                      "FormattedValues": [],
+                      "RelatedEntities": [],
+                      "KeyAttributes": []
+                    }
+                  ],
+                  "LogicalName": "plugintype",
+                  "PluginClassType": 1,
+                  "ConfigurationIsSupplied": true,
+                  "Id": "2cacbebd-4352-e811-80fd-00155dcfc041",
+                  "Attributes": [
+                    {
+                      "Key": "name",
+                      "Value": "Plugins.EventCreateUpdate"
+                    },
+                    {
+                      "Key": "friendlyname",
+                      "Value": "Plugins.EventCreateUpdate"
+                    },
+                    {
+                      "Key": "typename",
+                      "Value": "Plugins.EventCreateUpdate"
+                    },
+                    {
+                      "Key": "customizationlevel",
+                      "Value": {"$type":"System.Int32","$value":1}
+                    },
+                    {
+                      "Key": "pluginassemblyid",
+                      "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"abe79e79-4352-e811-80fd-00155dcfc041"},"LogicalName":"pluginassembly","Name":"Plugins","KeyAttributes":[]}
+                    },
+                    {
+                      "Key": "minor",
+                      "Value": {"$type":"System.Int32","$value":0}
+                    },
+                    {
+                      "Key": "ismanaged",
+                      "Value": {"$type":"System.Boolean","$value":false}
+                    },
+                    {
+                      "Key": "modifiedon",
+                      "Value": "2018-05-07T22:12:34Z"
+                    },
+                    {
+                      "Key": "assemblyname",
+                      "Value": "Plugins"
+                    },
+                    {
+                      "Key": "plugintypeid",
+                      "Value": {"$type":"System.Guid","$value":"2cacbebd-4352-e811-80fd-00155dcfc041"}
+                    },
+                    {
+                      "Key": "organizationid",
+                      "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"f4bf8e6c-a248-e811-8115-00155dce4467"},"LogicalName":"organization","KeyAttributes":[]}
+                    },
+                    {
+                      "Key": "createdby",
+                      "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"d8375890-a348-e811-8115-00155dce4467"},"LogicalName":"systemuser","Name":"Christopher Clark","KeyAttributes":[]}
+                    },
+                    {
+                      "Key": "plugintypeidunique",
+                      "Value": {"$type":"System.Guid","$value":"9321dca4-f807-4779-89ed-a81253d70db8"}
+                    },
+                    {
+                      "Key": "componentstate",
+                      "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                    },
+                    {
+                      "Key": "major",
+                      "Value": {"$type":"System.Int32","$value":1}
+                    },
+                    {
+                      "Key": "publickeytoken",
+                      "Value": "28fa53b3efc4a8cd"
+                    },
+                    {
+                      "Key": "culture",
+                      "Value": "neutral"
+                    },
+                    {
+                      "Key": "modifiedby",
+                      "Value": {"$type":"Microsoft.Xrm.Sdk.EntityReference, Microsoft.Xrm.Sdk","Id":{"$type":"System.Guid","$value":"d8375890-a348-e811-8115-00155dce4467"},"LogicalName":"systemuser","Name":"Christopher Clark","KeyAttributes":[]}
+                    },
+                    {
+                      "Key": "version",
+                      "Value": "1.0.0.0"
+                    },
+                    {
+                      "Key": "solutionid",
+                      "Value": {"$type":"System.Guid","$value":"fd140aae-4df4-11dd-bd17-0019b9312238"}
+                    },
+                    {
+                      "Key": "isworkflowactivity",
+                      "Value": {"$type":"System.Boolean","$value":false}
+                    },
+                    {
+                      "Key": "createdon",
+                      "Value": "2018-05-07T22:12:34Z"
+                    }
+                  ],
+                  "FormattedValues": [],
+                  "RelatedEntities": [],
+                  "KeyAttributes": []
+                }
+              ],
+              "LogicalName": "pluginassembly",
+              "Id": "abe79e79-4352-e811-80fd-00155dcfc041",
+              "Attributes": [
+                {
+                  "Key": "isolationmode",
+                  "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":2}}
+                },
+                {
+                  "Key": "sourcetype",
+                  "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                },
+                {
+                  "Key": "customizationlevel",
+                  "Value": {"$type":"System.Int32","$value":1}
+                },
+                {
+                  "Key": "name",
+                  "Value": "Plugins"
+                },
+                {
+                  "Key": "modifiedon",
+                  "Value": "2018-05-07T22:10:40Z"
+                },
+                {
+                  "Key": "createdon",
+                  "Value": "2018-05-07T22:10:40Z"
+                },
+                {
+                  "Key": "publickeytoken",
+                  "Value": "28fa53b3efc4a8cd"
+                },
+                {
+                  "Key": "culture",
+                  "Value": "neutral"
+                },
+                {
+                  "Key": "pluginassemblyid",
+                  "Value": {"$type":"System.Guid","$value":"abe79e79-4352-e811-80fd-00155dcfc041"}
+                },
+                {
+                  "Key": "version",
+                  "Value": "1.0.0.0"
+                }
+              ],
+              "FormattedValues": [],
+              "RelatedEntities": [],
+              "KeyAttributes": []
+            }
+          }
+        },
+        {
+          "Name": "Plugins.UnitTests.csproj",
+          "NameWithoutExtension": "Plugins.UnitTests",
+          "ProjectPreferences": {
+            "JavaScriptsPath": "\\Web",
+            "TypeScriptsPath": "\\Web",
+            "ImagesPath": "\\Web",
+            "WebFilesPath": "\\Web",
+            "CSSPath": "\\Web",
+            "XslPath": "\\Web",
+            "XmlPath": "\\Web",
+            "SilverlightPath": "\\Xap",
+            "JavaScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+            "TypeScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+            "SitemapPath": "\\Sitemap",
+            "ChartsPath": "\\Charts",
+            "ViewPath": "\\Views",
+            "ProxyClassesPath": "\\ProxyClasses",
+            "EmailTemplatesPath": "\\EmailTemplates",
+            "ProcessesPath": "\\Processes",
+            "EntityMetadataPath": "\\EntityMetadata",
+            "PluginConfigurationsPath": "\\PluginConfigurations",
+            "BaseProxyClassRelativePath": "\\",
+            "CustomAssemblyConfigPath": "\\AssemblyConfig",
+            "JavaScriptMinification": 1,
+            "CSSMinification": 1,
+            "AutoRefreshIntellisenseFilesOnMetadataChanges": true,
+            "ServiceContextName": "CrmServiceContext",
+            "EnumsFileName": "OptionSetEnums",
+            "BaseProxyClassFileName": "BaseProxyClass",
+            "AutoRefreshProxyClassesOnMetadataChanges": true,
+            "PluginPath": "",
+            "WorkflowPath": "",
+            "ProxyClassGenerationOptions": 1,
+            "ProxyClassGenerationMethod": 1,
+            "ProxyClassNamingConvention": 1,
+            "ProxyClassNamingPattern": "{0}",
+            "UseStronglyTypeNameForProxyClassRelatedEntities": true
+          },
+          "_files": [],
+          "ProjectSettings": {
+            "$type": "SS.XrmToolkit.Common.ApplicationObjects.PluginSettings, SS.XrmToolkit.Common",
+            "CopyAttributes": true,
+            "Log": false,
+            "Closed": true,
+            "UseILMerge": false,
+            "ProduceDebugInfo": true,
+            "OverrideCRMReferenceDirectory": false,
+            "CrmReferenceDirectory": "",
+            "ILMergeOuputDirectory": "\\ILMerge",
+            "OverrideTargetFrameworkLocation": false,
+            "TargetFrameworkLocation": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319",
+            "AllowDuplicateTypes": false,
+            "AllowDuplicateResources": false,
+            "ILMergeOutputAssemblyFileName": "\\ILMerge\\",
+            "DuplicateTypes": [],
+            "AssemblyReferences": [],
+            "ReferenceDirectories": [],
+            "PluginAssembly": {
+              "_pluginTypes": [],
+              "LogicalName": "pluginassembly",
+              "Id": "00000000-0000-0000-0000-000000000000",
+              "Attributes": [
+                {
+                  "Key": "isolationmode",
+                  "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":2}}
+                },
+                {
+                  "Key": "sourcetype",
+                  "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                },
+                {
+                  "Key": "customizationlevel",
+                  "Value": {"$type":"System.Int32","$value":1}
+                }
+              ],
+              "FormattedValues": [],
+              "RelatedEntities": [],
+              "KeyAttributes": []
+            }
+          }
+        },
+        {
+          "Name": "PluginTests.csproj",
+          "NameWithoutExtension": "PluginTests",
+          "ProjectPreferences": {
+            "JavaScriptsPath": "\\Web",
+            "TypeScriptsPath": "\\Web",
+            "ImagesPath": "\\Web",
+            "WebFilesPath": "\\Web",
+            "CSSPath": "\\Web",
+            "XslPath": "\\Web",
+            "XmlPath": "\\Web",
+            "SilverlightPath": "\\Xap",
+            "JavaScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+            "TypeScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+            "SitemapPath": "\\Sitemap",
+            "ChartsPath": "\\Charts",
+            "ViewPath": "\\Views",
+            "ProxyClassesPath": "\\ProxyClasses",
+            "EmailTemplatesPath": "\\EmailTemplates",
+            "ProcessesPath": "\\Processes",
+            "EntityMetadataPath": "\\EntityMetadata",
+            "PluginConfigurationsPath": "\\PluginConfigurations",
+            "BaseProxyClassRelativePath": "\\",
+            "CustomAssemblyConfigPath": "\\AssemblyConfig",
+            "JavaScriptMinification": 1,
+            "CSSMinification": 1,
+            "AutoRefreshIntellisenseFilesOnMetadataChanges": true,
+            "ServiceContextName": "CrmServiceContext",
+            "EnumsFileName": "OptionSetEnums",
+            "BaseProxyClassFileName": "BaseProxyClass",
+            "AutoRefreshProxyClassesOnMetadataChanges": true,
+            "PluginPath": "",
+            "WorkflowPath": "",
+            "ProxyClassGenerationOptions": 1,
+            "ProxyClassGenerationMethod": 1,
+            "ProxyClassNamingConvention": 1,
+            "ProxyClassNamingPattern": "{0}",
+            "UseStronglyTypeNameForProxyClassRelatedEntities": true
+          },
+          "_files": [
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.ProxyFile, SS.XrmToolkit.Common",
+              "EntityLogicalName": "ccc_event",
+              "MetadataId": "c7bc41f3-0a4e-e811-80fd-00155dcfc041",
+              "AutoRefreshOnChanges": true,
+              "ProxyClassGenerationOptions": 2,
+              "ProxyClassGenerationMethod": 1,
+              "ProxyClassNamingConvention": 1,
+              "ProxyClassNamingPattern": "{0}",
+              "UseStronglyTypeNameForProxyClassRelatedEntities": true,
+              "ProgrammingLanguage": 1,
+              "RelativeFilePath": "ProxyClasses\\@Event.cs",
+              "Name": "@Event.cs",
+              "CrmId": "c7bc41f3-0a4e-e811-80fd-00155dcfc041"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.ProxyBaseClass, SS.XrmToolkit.Common",
+              "Version": "4.0.0.0",
+              "ProgrammingLanguage": 1,
+              "RelativeFilePath": "ProxyClasses\\BaseProxyClass.cs",
+              "Name": "BaseProxyClass.cs",
+              "CrmId": "00000000-0000-0000-0000-000000000000"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.ProxyFile, SS.XrmToolkit.Common",
+              "EntityLogicalName": "ccc_eventasset",
+              "MetadataId": "673771e0-0b4e-e811-80fd-00155dcfc041",
+              "AutoRefreshOnChanges": true,
+              "ProxyClassGenerationOptions": 2,
+              "ProxyClassGenerationMethod": 1,
+              "ProxyClassNamingConvention": 1,
+              "ProxyClassNamingPattern": "{0}",
+              "UseStronglyTypeNameForProxyClassRelatedEntities": true,
+              "ProgrammingLanguage": 1,
+              "RelativeFilePath": "ProxyClasses\\EventAsset.cs",
+              "Name": "EventAsset.cs",
+              "CrmId": "673771e0-0b4e-e811-80fd-00155dcfc041"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.ProxyFile, SS.XrmToolkit.Common",
+              "EntityLogicalName": "ccc_eventlog",
+              "MetadataId": "75477f58-4152-e811-80fd-00155dcfc041",
+              "AutoRefreshOnChanges": true,
+              "ProxyClassGenerationOptions": 2,
+              "ProxyClassGenerationMethod": 1,
+              "ProxyClassNamingConvention": 1,
+              "ProxyClassNamingPattern": "{0}",
+              "UseStronglyTypeNameForProxyClassRelatedEntities": true,
+              "ProgrammingLanguage": 1,
+              "RelativeFilePath": "ProxyClasses\\EventLog.cs",
+              "Name": "EventLog.cs",
+              "CrmId": "75477f58-4152-e811-80fd-00155dcfc041"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.ProxyFile, SS.XrmToolkit.Common",
+              "EntityLogicalName": "ccc_eventtype",
+              "MetadataId": "9659f1f1-0e4e-e811-80fd-00155dcfc041",
+              "AutoRefreshOnChanges": true,
+              "ProxyClassGenerationOptions": 2,
+              "ProxyClassGenerationMethod": 1,
+              "ProxyClassNamingConvention": 1,
+              "ProxyClassNamingPattern": "{0}",
+              "UseStronglyTypeNameForProxyClassRelatedEntities": true,
+              "ProgrammingLanguage": 1,
+              "RelativeFilePath": "ProxyClasses\\EventType.cs",
+              "Name": "EventType.cs",
+              "CrmId": "9659f1f1-0e4e-e811-80fd-00155dcfc041"
+            }
+          ],
+          "ProjectSettings": {
+            "$type": "SS.XrmToolkit.Common.ApplicationObjects.PluginSettings, SS.XrmToolkit.Common",
+            "CopyAttributes": true,
+            "Log": false,
+            "Closed": true,
+            "UseILMerge": false,
+            "ProduceDebugInfo": true,
+            "OverrideCRMReferenceDirectory": false,
+            "CrmReferenceDirectory": "",
+            "ILMergeOuputDirectory": "\\ILMerge",
+            "OverrideTargetFrameworkLocation": false,
+            "TargetFrameworkLocation": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319",
+            "AllowDuplicateTypes": false,
+            "AllowDuplicateResources": false,
+            "ILMergeOutputAssemblyFileName": "\\ILMerge\\",
+            "DuplicateTypes": [],
+            "AssemblyReferences": [],
+            "ReferenceDirectories": [],
+            "PluginAssembly": {
+              "_pluginTypes": [],
+              "LogicalName": "pluginassembly",
+              "Id": "00000000-0000-0000-0000-000000000000",
+              "Attributes": [
+                {
+                  "Key": "isolationmode",
+                  "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":2}}
+                },
+                {
+                  "Key": "sourcetype",
+                  "Value": {"$type":"Microsoft.Xrm.Sdk.OptionSetValue, Microsoft.Xrm.Sdk","Value":{"$type":"System.Int32","$value":0}}
+                },
+                {
+                  "Key": "customizationlevel",
+                  "Value": {"$type":"System.Int32","$value":1}
+                }
+              ],
+              "FormattedValues": [],
+              "RelatedEntities": [],
+              "KeyAttributes": []
+            }
+          }
+        }
+      ],
+      "OrganizationName": "Fusion2018DEV",
+      "OrganizationDisplayName": "Fusion 2018 CI/CD DEVELOPMENT",
+      "UserFriendlyName": "Fusion 2018 CI/CD DEVELOPMENT",
+      "SelectedSolution": {
+        "UniqueName": "Focus2018",
+        "Id": "6ce3533d-294a-e811-80fd-00155dcfc041",
+        "LogicalName": "solution",
+        "Name": "Focus2018"
+      },
+      "OrganizationPreferences": {
+        "JavaScriptsPath": "\\Web",
+        "TypeScriptsPath": "\\Web",
+        "ImagesPath": "\\Web",
+        "WebFilesPath": "\\Web",
+        "CSSPath": "\\Web",
+        "XslPath": "\\Web",
+        "XmlPath": "\\Web",
+        "SilverlightPath": "\\Xap",
+        "JavaScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+        "TypeScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+        "SitemapPath": "\\Sitemap",
+        "ChartsPath": "\\Charts",
+        "ViewPath": "\\Views",
+        "ProxyClassesPath": "\\ProxyClasses",
+        "EmailTemplatesPath": "\\EmailTemplates",
+        "ProcessesPath": "\\Processes",
+        "EntityMetadataPath": "\\EntityMetadata",
+        "PluginConfigurationsPath": "\\PluginConfigurations",
+        "BaseProxyClassRelativePath": "\\",
+        "CustomAssemblyConfigPath": "\\AssemblyConfig",
+        "JavaScriptMinification": 1,
+        "CSSMinification": 1,
+        "AutoRefreshIntellisenseFilesOnMetadataChanges": true,
+        "ServiceContextName": "CrmServiceContext",
+        "EnumsFileName": "OptionSetEnums",
+        "BaseProxyClassFileName": "BaseProxyClass",
+        "AutoRefreshProxyClassesOnMetadataChanges": true,
+        "PluginPath": "",
+        "WorkflowPath": "",
+        "ProxyClassGenerationOptions": 4,
+        "ProxyClassGenerationMethod": 1,
+        "ProxyClassNamingConvention": 1,
+        "ProxyClassNamingPattern": "{0}",
+        "UseStronglyTypeNameForProxyClassRelatedEntities": true
+      }
+    }
+  ]
+}

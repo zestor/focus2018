@@ -1,0 +1,28 @@
+﻿2018-05-03T17:14:51.8548329-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-05-03T17:14:52.0313021-04:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-05-03T17:14:52.0323088-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\spike-specflow\bin\Debug\seleniumtest.dll
+2018-05-03T17:14:52.0333077-04:00;VSTestExecutionThread;Info;Profile: Default
+2018-05-03T17:14:57.1479836-04:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-05-03T17:14:58.3320940-04:00;VSTestExecutionThread;Info;Log file: file:///C:\Focus2018\VSTS\CRMUG%20Focus%202018\spike-specflow\TestResults\spike-specflow_Default_2018-05-03T171452.log
+2018-05-03T17:14:58.3330969-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-05-03T17:17:57.5435372-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-05-03T17:17:57.5666325-04:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-05-03T17:17:57.5676018-04:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\spike-specflow\bin\Debug\seleniumtest.dll
+2018-05-03T17:17:57.5676018-04:00;VSTestExecutionThread;Info;Profile: Default
+2018-05-03T17:18:05.5723068-04:00;Thread#18;Info;Discovering target: Default
+Test Suite Dump
+#0: spike-specflow/Default - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0

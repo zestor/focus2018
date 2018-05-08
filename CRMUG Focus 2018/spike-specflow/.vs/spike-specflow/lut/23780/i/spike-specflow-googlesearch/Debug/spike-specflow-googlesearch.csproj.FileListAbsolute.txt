@@ -1,0 +1,6 @@
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\spike-specflow-googlesearch\bin\Debug\spike-specflow-googlesearch.dll
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\spike-specflow-googlesearch\bin\Debug\spike-specflow-googlesearch.pdb
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike-specflow-googlesearch\Debug\spike-specflow-googlesearch.csprojResolveAssemblyReference.cache
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike-specflow-googlesearch\Debug\spike-specflow-googlesearch.csproj.CoreCompileInputs.cache
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike-specflow-googlesearch\Debug\spike-specflow-googlesearch.dll
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike-specflow-googlesearch\Debug\spike-specflow-googlesearch.pdb

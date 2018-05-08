@@ -1,0 +1,6 @@
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\bin\Release\zestortest.exe.config
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\bin\Release\zestortest.exe
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\bin\Release\zestortest.pdb
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\obj\Release\zestortest.csproj.CoreCompileInputs.cache
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\obj\Release\zestortest.exe
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\obj\Release\zestortest.pdb

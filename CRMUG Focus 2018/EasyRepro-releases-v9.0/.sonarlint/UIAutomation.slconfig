@@ -1,0 +1,11 @@
+{
+  "ServerUri": "http://localhost:9000",
+  "Organization": null,
+  "ProjectKey": "SonarQubeProjectKey",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AWL8_kHbo4U2aTMRDFOD",
+      "ProfileTimestamp": "2018-04-25T09:29:04-04:00"
+    }
+  }
+}

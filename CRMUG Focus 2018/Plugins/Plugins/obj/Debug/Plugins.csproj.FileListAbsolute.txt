@@ -1,0 +1,7 @@
+C:\Focus2018\VSTS\CRMUG Focus 2018\Plugins\Plugins\bin\Debug\Plugins.dll
+C:\Focus2018\VSTS\CRMUG Focus 2018\Plugins\Plugins\bin\Debug\Plugins.pdb
+C:\Focus2018\VSTS\CRMUG Focus 2018\Plugins\Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Focus2018\VSTS\CRMUG Focus 2018\Plugins\Plugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Focus2018\VSTS\CRMUG Focus 2018\Plugins\Plugins\obj\Debug\Plugins.csproj.CoreCompileInputs.cache
+C:\Focus2018\VSTS\CRMUG Focus 2018\Plugins\Plugins\obj\Debug\Plugins.dll
+C:\Focus2018\VSTS\CRMUG Focus 2018\Plugins\Plugins\obj\Debug\Plugins.pdb

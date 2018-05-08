@@ -1,0 +1,5 @@
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\spike- specflow-calculator\bin\Debug\spike- specflow-calculator.dll
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\spike- specflow-calculator\bin\Debug\spike- specflow-calculator.pdb
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike- specflow-calculator\Debug\spike- specflow-calculator.csproj.CoreCompileInputs.cache
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike- specflow-calculator\Debug\spike- specflow-calculator.dll
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike- specflow-calculator\Debug\spike- specflow-calculator.pdb

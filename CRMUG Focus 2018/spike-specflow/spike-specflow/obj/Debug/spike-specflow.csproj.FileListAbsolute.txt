@@ -1,0 +1,26 @@
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\obj\Debug\spike-specflow.csprojResolveAssemblyReference.cache
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\obj\Debug\spike-specflow.csproj.CoreCompileInputs.cache
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\Default.srprofile
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\MicrosoftWebDriver.exe
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\seleniumtest.dll.config
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\seleniumtest.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\seleniumtest.pdb
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\Newtonsoft.Json.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\spike- specflow-calculator.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\spike-specflow-googlesearch.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\System.ValueTuple.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\TechTalk.SpecRun.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\WebDriver.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\WebDriver.Support.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\spike- specflow-calculator.pdb
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\spike-specflow-googlesearch.pdb
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\Newtonsoft.Json.xml
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\System.ValueTuple.xml
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\WebDriver.xml
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\bin\Debug\WebDriver.Support.xml
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\obj\Debug\seleniumtest.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow\obj\Debug\seleniumtest.pdb

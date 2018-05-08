@@ -1,0 +1,2 @@
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow-googlesearch\obj\Release\spike-specflow-googlesearch.csprojResolveAssemblyReference.cache
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike-specflow-googlesearch\obj\Release\spike-specflow-googlesearch.csproj.CoreCompileInputs.cache

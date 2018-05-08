@@ -1,0 +1,9 @@
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\bin\Debug\zestortest.exe.config
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\bin\Debug\zestortest.exe
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\bin\Debug\zestortest.pdb
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\obj\Debug\zestortest.csproj.CoreCompileInputs.cache
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\obj\Debug\zestortest.exe
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\obj\Debug\zestortest.pdb
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\bin\Debug\WebDriver.dll
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\bin\Debug\WebDriver.xml
+C:\Focus2018\vstsagent\_work\1\s\spike-specflow\zestortest\obj\Debug\zestortest.csprojResolveAssemblyReference.cache

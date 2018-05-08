@@ -1,0 +1,9 @@
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\spike-specflow\bin\Debug\Default.srprofile
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\spike-specflow\bin\Debug\MicrosoftWebDriver.exe
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\spike-specflow\bin\Debug\seleniumtest.dll.config
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\spike-specflow\bin\Debug\seleniumtest.dll
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\spike-specflow\bin\Debug\seleniumtest.pdb
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike-specflow\Debug\spike-specflow.csprojResolveAssemblyReference.cache
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike-specflow\Debug\spike-specflow.csproj.CoreCompileInputs.cache
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike-specflow\Debug\seleniumtest.dll
+C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\spike-specflow\Debug\seleniumtest.pdb
