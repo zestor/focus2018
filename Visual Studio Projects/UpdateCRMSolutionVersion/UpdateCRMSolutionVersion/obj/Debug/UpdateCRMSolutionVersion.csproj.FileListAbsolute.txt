@@ -1,0 +1,11 @@
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\obj\Debug\UpdateCRMSolutionVersion.csproj.CoreCompileInputs.cache
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\bin\Debug\UpdateCRMSolutionVersion.exe.config
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\bin\Debug\UpdateCRMSolutionVersion.exe
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\bin\Debug\UpdateCRMSolutionVersion.pdb
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\bin\Debug\Microsoft.IdentityModel.dll
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\obj\Debug\UpdateCRMSolutionVersion.exe
+C:\Focus2018\Visual Studio Projects\UpdateCRMSolutionVersion\UpdateCRMSolutionVersion\obj\Debug\UpdateCRMSolutionVersion.pdb

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestProfile xmlns="http://www.specflow.org/schemas/plus/TestProfile/1.5">
+  <Settings projectName="Microsoft.Dynamics365.UIAutomation.Sample" projectId="{A075B87E-DCA5-4A2A-909B-932E2F5F98B4}" />
+  <Execution stopAfterFailures="1" testThreadCount="1" testSchedulingMode="Sequential" />
+  <TestAssemblyPaths>
+    <TestAssemblyPath>Microsoft.Dynamics365.UIAutomation.Sample.dll</TestAssemblyPath>
+  </TestAssemblyPaths>
+</TestProfile>

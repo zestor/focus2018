@@ -1,5 +1,0 @@
-C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike- specflow-calculator\bin\Debug\spike- specflow-calculator.dll
-C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike- specflow-calculator\bin\Debug\spike- specflow-calculator.pdb
-C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike- specflow-calculator\obj\Debug\spike- specflow-calculator.csproj.CoreCompileInputs.cache
-C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike- specflow-calculator\obj\Debug\spike- specflow-calculator.dll
-C:\Focus2018\vstsagent\_work\1\s\spike-specflow\spike- specflow-calculator\obj\Debug\spike- specflow-calculator.pdb

@@ -1,0 +1,11 @@
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\bin\Debug\ExportCRMSolution.exe.config
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\bin\Debug\ExportCRMSolution.exe
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\bin\Debug\ExportCRMSolution.pdb
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\bin\Debug\Microsoft.IdentityModel.dll
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\obj\Debug\ExportCRMSolution.csproj.CoreCompileInputs.cache
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\obj\Debug\ExportCRMSolution.exe
+C:\Focus2018\Visual Studio Projects\ExportCRMSolution\ExportCRMSolution\obj\Debug\ExportCRMSolution.pdb

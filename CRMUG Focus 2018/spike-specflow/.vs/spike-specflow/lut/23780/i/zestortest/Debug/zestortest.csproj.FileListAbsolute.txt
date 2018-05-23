@@ -1,6 +1,0 @@
-C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\zestortest\bin\Debug\zestortest.exe.config
-C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\zestortest\bin\Debug\zestortest.exe
-C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\b\zestortest\bin\Debug\zestortest.pdb
-C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\zestortest\Debug\zestortest.csproj.CoreCompileInputs.cache
-C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\zestortest\Debug\zestortest.exe
-C:\Focus2018\VSTS\CRMUG Focus 2018\spike-specflow\.vs\spike-specflow\lut\0\i\zestortest\Debug\zestortest.pdb
